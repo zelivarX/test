@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="remove">remove</string>
+    <string name="add">add</string>
+    <string name="show">show</string>
+    <string name="hide">hide</string>
+    <string name="title_activity_main__page">BEST APP EVER</string>
+    <string name="acc">Username</string>
+    <string name="acc_hint">Enter username</string>
+    <string name="pass">Password</string>
+    <string name="pass_hint">Enter password</string>
+    <string name="submit">login</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_dsa">Dsa</string>
+    <string name="title_activity_show_body">ShowBody</string>
+    <string name="title_activity_post_info">PostInfo</string>
+    <string name="title">title:</string>
+    <string name="body">body:</string>
+    <string name="info">StackOverflow info</string>
+    <string name="title_activity_dm">DM</string>
+    <string name="seen">seen by:</string>
+    <string name="score">score:</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="title_activity_loged_in">LogedIn</string>
+    <string name="button">show progress</string>
+    
+    <string-array name="options">
+        <item>Main</item>
+        <item>StackOverflow</item>
+
+    </string-array>
+    
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>

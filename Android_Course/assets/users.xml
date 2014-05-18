@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <acc>acc1</acc>
+        <pass>pass1</pass>
+    </user>
+    <user>
+        <acc>acc2</acc>
+        <pass>pass2</pass>
+    </user>
+    <user>
+        <acc>acc3</acc>
+        <pass>pass3</pass>
+    </user>
+    <user>
+        <acc>acc4</acc>
+        <pass>pass4</pass>
+    </user>
+</users>
